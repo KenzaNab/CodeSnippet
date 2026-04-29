@@ -32,5 +32,3 @@ cd frontend && npm install && npm start
 | DELETE | /api/snippets/:id | Delete snippet |
 | GET | /api/snippets/public | Public snippets |
 
-## License
-MIT — Kenza Nabaghi
